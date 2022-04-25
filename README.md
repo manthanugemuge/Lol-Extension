@@ -11,8 +11,9 @@ API : https://icanhazdadjoke.com/slack
 
 - Download or clone the repository Website : 
 ```
-
+https://github.com/ManthanUgemuge/Lol-Extension.git
 ```
+
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
