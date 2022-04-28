@@ -13,7 +13,7 @@ API : https://icanhazdadjoke.com/slack
 ```
 https://github.com/ManthanUgemuge/Lol-Extension.git
 ```
-
+- Download - [Click Here](https://github.com/ManthanUgemuge/Lol-Extension/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
