@@ -1,5 +1,5 @@
 # Lol Extension
-Click Extension to get Random Joke on Browser you install extension on.
+You click on this google chrome extension to get a random Joke every time 😂
 
 ## About the Project
 Jokes Extension for any Browser <br>
