@@ -2,6 +2,7 @@
 Click Extension to get Random Joke on Browser you install extension on.
 
 ## About the Project
+Jokes Extension for any Browser <br>
 Lol Joke Extension <br>
 API : https://icanhazdadjoke.com/slack
 
