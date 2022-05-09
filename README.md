@@ -2,9 +2,9 @@
 You click on this google chrome extension to get a random Joke every time 😂
 
 ## About the Project
-Jokes Extension for any Browser <br>
-Lol Joke Extension <br>
-API : https://icanhazdadjoke.com/slack
+Jokes Extension for any Browser. <br>
+
+API used : https://icanhazdadjoke.com/slack
 
 ## Tech Stacks Used
 
