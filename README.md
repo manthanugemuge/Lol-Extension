@@ -5,6 +5,7 @@ You click on this google chrome extension to get a random Joke every time 😂
 Jokes Extension for any Browser. <br>
 
 API used : https://icanhazdadjoke.com/slack
+TUtorial : 
 
 ## Tech Stacks Used
 
