@@ -4,7 +4,8 @@ You click on this google chrome extension to get a random Joke every time 😂
 ## About the Project
 Jokes Extension for any Browser. <br>
 
-API used : https://icanhazdadjoke.com/slack
+API used : https://icanhazdadjoke.com/slack <br>
+
 Tutorial : 
 
 ## Tech Stacks Used
